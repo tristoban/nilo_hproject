@@ -1,13 +1,13 @@
-package com.api.rest.keycloackspringboot;
+package com.api.rest.keycloacspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KeycloackspringbootApplication {
+public class KeycloacspringbootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KeycloackspringbootApplication.class, args);
+		SpringApplication.run(KeycloacspringbootApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.api.rest.keycloackspringboot;
+package com.api.rest.keycloacspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KeycloackspringbootApplicationTests {
+class KeycloacspringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
